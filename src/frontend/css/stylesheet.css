@@ -1,0 +1,9 @@
+.nav-link-color {
+    color:white !important;
+}
+
+.blank_row
+{
+    height: 41px !important; /* overwrites any other rules */
+    background-color: #FFFFFF;
+}
